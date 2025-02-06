@@ -6,4 +6,4 @@
 
 ### 列表RAW地址： https://raw.githubusercontent.com/wuu0417/Netflix_OpenAI_IP/refs/heads/main/list.txt
 
-### 最新更新时间：2025/2/6
+### 最新更新时间：2025/2/3
