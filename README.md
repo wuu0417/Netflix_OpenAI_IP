@@ -14,7 +14,7 @@
 
 ### *引用来源：*
 
-### *Netflix IP：https://github.com/QiuSimons/Netflix_IP*
+### *Netflix IP：https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Netflix*
 
 ### *OpenAI IP： https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/OpenAI*
 
