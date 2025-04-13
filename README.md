@@ -1,29 +1,31 @@
 # 【自用】Netflix和OpenAI IP列表
 
-#### *用Netflix和OpenAI IP列表替换Netflix Ip，达到同时帮OpenAI分流目的*
-
-#### *⚠️仅为自用*
-
-#### *使用场景：替换SSRP+ Netflix分流IP列表*
+#### 适用软件：ShadowsocksR Plus+ (OpenWrt Version)
 
 ---
 
-### 列表RAW地址： https://raw.githubusercontent.com/wuu0417/Netflix_OpenAI_IP/refs/heads/main/list.txt
+### 食用教程：
+
+#### 1.将Netflix分流IP的更新连接替换为以下列表：
+
+#### https://raw.githubusercontent.com/wuu0417/Netflix_OpenAI_IP/refs/heads/main/list.txt
+
+#### 更新订阅连接后手动执行一次更新
+
+#### 2. 将域名列表中的域名手动复制到“访问控制”-“Netflix分流域名”，替换所有原内容
+
+#### 点击查看域名列表：https://raw.githubusercontent.com/wuu0417/Netflix_OpenAI_IP/refs/heads/main/domain_list.txt
+
+#### 更新域名列表后点击保存&应用
+
+#### 备注：你也可以自由将列表内容应用至其它软件，列表内容仅供参考，问题请issue
 
 ---
 
-### *引用来源：*
+#### 引用来源：
 
-### *Netflix IP：https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Netflix*
+#### Netflix IP：https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Netflix
 
-### *OpenAI IP： https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/OpenAI*
-
----
-
-#### *⚠️提醒：此列表仅为可更新IP列表，请自行将OpenAI域名加入“SSRP+“-”访问控制”-“Netflix分流域名”中*
-
-#### *更换列表后请手动更新一次*
-
----
+#### OpenAI IP： https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/OpenAI
 
 #### 最后更新时间：2025/3/30
