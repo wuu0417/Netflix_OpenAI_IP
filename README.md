@@ -8,7 +8,7 @@
 
 #### 1.将Netflix分流IP的更新连接替换为以下列表：
 
-#### https://raw.githubusercontent.com/wuu0417/Netflix_OpenAI_IP/refs/heads/main/list.txt
+#### https://raw.githubusercontent.com/wuu0417/Netflix_OpenAI_IP/refs/heads/main/ip_list.txt
 
 #### 更新订阅连接后手动执行一次更新
 
